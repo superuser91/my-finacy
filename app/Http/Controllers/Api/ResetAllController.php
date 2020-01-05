@@ -4,7 +4,6 @@ namespace App\Http\Controllers\Api;
 
 use App\IncomeCategory;
 use App\ExpenseCategory;
-use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use App\Income;
 use App\Expense;

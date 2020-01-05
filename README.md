@@ -4,16 +4,16 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Là ứng dụng do 3 thành viên lớp CT1C Trường Học viện kỹ thuật mật mã xây dựng nhằm mục đích học tập, nghiên cứu phát triển các API chuẩn RESTful dựa trên Framework Laravel, đồng thời tạo ra một ứng dụng có ý nghĩa thực tiễn, giúp ích cho cuộc sống
+Ứng dụng được xây dựng nhằm mục đích học tập, nghiên cứu phát triển các API chuẩn RESTful dựa trên Framework Laravel, đồng thời tạo ra một ứng dụng có ý nghĩa thực tiễn, giúp ích cho cuộc sống
 
 
 # Các tính năng mà API cung cấp:
 
   - Tạo tài khoản và Đăng nhập hệ thống
-  - Lưu giữ nhật ký thu - chi bạn
+  - Lưu giữ nhật ký thu - chi của bạn
   - Thống kê các khoản thu chi của bạn theo ngày, tháng, năm
   ...
-Ứng dụng  vẫn có thể còn được phát triển và bổ sung nhiều tính năng hơn nữa
+  - Ứng dụng  vẫn có thể còn được phát triển và bổ sung nhiều tính năng hơn nữa
 
 
 ### Techique
